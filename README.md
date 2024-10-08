@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aby-ngoding
-- 👀 I’m interested in become game dev
+- 👋 Hi, I’m Xavier
+- 👀 I’m interested in become game developer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
